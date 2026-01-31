@@ -1,0 +1,25 @@
+.clock-container {
+  background-color: #282c34;
+  color: #61dafb;
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  width: 100%;
+  max-width: 300px;
+}
+
+.clock-time {
+  font-size: 3.5rem;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  margin: 0;
+}
+
+.clock-title {
+  color: white;
+  margin-bottom: 20px;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
